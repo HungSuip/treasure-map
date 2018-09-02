@@ -2,12 +2,12 @@
 
 ## Index
 
-* [>> Go](#Go)
-* [>> Python](#Python)
-* [>> Java](#Java)
-* [>> C#](#C#)
-* [>> JavaScript](#JavaScript)
-* [>> Misc](#Misc)
+- [>> Go](#go)
+- [>> Python](#python)
+- [>> Java](#java)
+- [>> C#](#c#)
+- [>> JavaScript](#javascript)
+- [>> Misc](#misc)
 
 ## Go
 
